@@ -60,3 +60,6 @@ A simple yet powerful age and gender predictor using machine learning.
 ![Sample Output 4](https://nbviewer.org/github/sudheerpulapa/AgeGenderPredictorAI/blob/main/Output_Image_4.PNG)
 
 **Author: Sudheer Chowdary Pulapa**
+
+[LinkedIn](https://www.linkedin.com/in/sudheer-chowdary-pulapa/)
+[GitHub](https://github.com/sudheerpulapa)
