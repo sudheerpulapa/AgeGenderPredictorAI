@@ -1,15 +1,15 @@
-# Age-Gender Detector
+# Age-Gender Predictor AI
 
-![Age-Gender Detector](https://img.shields.io/badge/Age--Gender%20Detector-Machine%20Learning-brightgreen)
+![Age-Gender Predictor AI](https://img.shields.io/badge/Age--Gender%20Predictor%20AI-Machine%20Learning-brightgreen)
 
-A simple age and gender detector using machine learning.
+A simple yet powerful age and gender predictor using machine learning.
 
 ## Quick Start
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/sudheerpulapa/AgeGenderPredictorAI/tree/main
-    cd Age-Gender_Detector
+    git clone https://github.com/sudheerpulapa/AgeGenderPredictorAI
+    cd AgeGenderPredictorAI
     ```
 
 2. **Run the application:**
@@ -25,8 +25,8 @@ A simple age and gender detector using machine learning.
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/utkarshshri1016/Age-Gender_Detector.git
-    cd Age-Gender_Detector
+    git clone https://github.com/sudheerpulapa/AgeGenderPredictorAI
+    cd AgeGenderPredictorAI
     ```
 
 2. **Download the dataset:**
@@ -34,12 +34,13 @@ A simple age and gender detector using machine learning.
     - Extract the dataset to the repository folder.
 
 3. **Run the Jupyter Notebook:**
-    - Open and run the [Model.ipynb](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Model.ipynb) notebook to train the model.
+    - Open and run the [Model.ipynb](https://nbviewer.org/github/sudheerpulapa/AgeGenderPredictorAI/blob/main/Model.ipynb) notebook to train the model.
 
 4. **Run the application:**
     ```bash
     python gui.py
     ```
+
 5. **Upload an image and detect:**
     - Click on the "Detect" button to analyze the uploaded image.
     - View the results.
@@ -47,13 +48,15 @@ A simple age and gender detector using machine learning.
 ## Sample Outputs
 
 ### Sample Output 1
-![Sample Output 1](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_1.PNG)
+![Sample Output 1](https://nbviewer.org/github/sudheerpulapa/AgeGenderPredictorAI/blob/main/Output_Image_1.PNG)
 
 ### Sample Output 2
-![Sample Output 2](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_2.PNG)
+![Sample Output 2](https://nbviewer.org/github/sudheerpulapa/AgeGenderPredictorAI/blob/main/Output_Image_2.PNG)
 
 ### Sample Output 3
-![Sample Output 3](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_3.PNG)
+![Sample Output 3](https://nbviewer.org/github/sudheerpulapa/AgeGenderPredictorAI/blob/main/Output_Image_3.PNG)
 
 ### Sample Output 4
-![Sample Output 4](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_4.PNG)
+![Sample Output 4](https://nbviewer.org/github/sudheerpulapa/AgeGenderPredictorAI/blob/main/Output_Image_4.PNG)
+
+**Author: Sudheer Chowdary Pulapa**
