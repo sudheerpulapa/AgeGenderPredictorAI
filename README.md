@@ -8,7 +8,7 @@ A simple age and gender detector using machine learning.
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/utkarshshri1016/Age-Gender_Detector.git
+    git clone https://github.com/sudheerpulapa/AgeGenderPredictorAI/tree/main
     cd Age-Gender_Detector
     ```
 
