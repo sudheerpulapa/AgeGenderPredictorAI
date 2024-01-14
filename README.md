@@ -61,5 +61,5 @@ A simple yet powerful age and gender predictor using machine learning.
 
 **Author: Sudheer Chowdary Pulapa**
 
-[LinkedIn](https://www.linkedin.com/in/sudheer-chowdary-pulapa/)
-[GitHub](https://github.com/sudheerpulapa)
+- [LinkedIn](https://www.linkedin.com/in/sudheer-chowdary-a2530a150/)
+- [GitHub](https://github.com/sudheerpulapa)
